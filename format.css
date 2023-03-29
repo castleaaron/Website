@@ -1,0 +1,86 @@
+html{
+    background: url(https://img.freepik.com/free-vector/stream-binary-code-design_53876-97406.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-top: 100px solid black;
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+#github{
+    position: absolute;
+    left: 15%;
+    top: 1%;
+    height: 75px;
+    width: auto;
+}
+
+#linkedin{
+    position: absolute;
+    right: 15%;
+    top: 1%;
+    height: 75px;
+    width: auto;
+
+}
+
+
+
+#resume{
+    position: absolute;
+    left: 47.5%;
+    top: 1%;
+    height: 75px;
+    width: auto;
+
+}
+
+#resume_center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 70%;
+}
+
+#back_button{
+    position: fixed;
+    left: 2.5%;
+    top: 15%;
+    height: 75px;
+    width: auto;
+
+}
+
+
+
+
+#center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#center_button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px
+}
+
+#header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
